@@ -1,3 +1,5 @@
+![Node](https://img.shields.io/badge/Node.js-18+-green)![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)![Prisma](https://img.shields.io/badge/Prisma-ORM-blueviolet)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Neon.tech-blue)
+
 # Mini-Gestionnaire de Bibliothèque - Backend Node.js
   Ce projet est un mini-backend développé en TypeScript avec Node.js, Prisma ORM et une base de données PostgreSQL hébergée sur Neon. L'objectif principal de cet exercice est de concevoir et de manipuler la couche d'accès aux données (CRUD) ainsi que de gérer des relations entre deux entités, sans utiliser de framework Web comme Express ou Next.js.  
 
@@ -8,14 +10,14 @@
 
 ## Gestion des emprunts (Emprunt) : Création d'un emprunt, mise à jour automatique de la disponibilité du livre, historique des emprunts avec inclusion des données du livre et retour de livre.  
 
-##Stack Technique  
+## Stack Technique  
 
   Runtime : Node.js LTS
   Langage : TypeScript (exécuté avec tsx)
   ORM : Prisma
   Base de données : PostgreSQL (hébergé sur Neon.tech)
 
-##Installation et Configuration
+## Installation et Configuration
 
   ### 1. Prérequis
     Assurez-vous d'avoir installé Node.js LTS.  
