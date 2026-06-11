@@ -6,9 +6,11 @@
 ## Fonctionnalités du Projet  
   Le système gère un catalogue de livres et le suivi de leurs emprunts à travers deux modèles liés par une relation de 1 à plusieurs (1-N) :
 
-## Gestion du catalogue (Livre) : Création (Seed), lecture globale, filtrage (disponibilité, recherche partielle par auteur), mise à jour et suppression (simple ou conditionnelle).  
+## Gestion du catalogue (Livre):  
+Création (Seed), lecture globale, filtrage (disponibilité, recherche partielle par auteur), mise à jour et suppression (simple ou conditionnelle).  
 
-## Gestion des emprunts (Emprunt) : Création d'un emprunt, mise à jour automatique de la disponibilité du livre, historique des emprunts avec inclusion des données du livre et retour de livre.  
+## Gestion des emprunts (Emprunt):  
+Création d'un emprunt, mise à jour automatique de la disponibilité du livre, historique des emprunts avec inclusion des données du livre et retour de livre.  
 
 ## Stack Technique  
 
